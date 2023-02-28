@@ -1,10 +1,7 @@
 # MedART
 
 ### Conception 
-My friend is studying medicine and she has put a lot of effort into creating medical drawings during her education. I didn't want all of her hard work to go to waste, so it inspired me to start this project.
-I selected the most interesting drawings, scanned them, and created a strange dataset. Then, I applied my computer science skills and tried to use a neural network to transform your drawings.
-I have invested more than just labor and attention into this project. For me, it is a very complex process focused on creativity and extensive internal research. Something inside of me wants to create beautiful things.
-The network used in this project was fine-tuned on a part of you, so some of the drawings may resemble you in some way. The image interpolation function describes data taken from my heart's EEG.
+My friend is studying medicine and she has put a lot of effort into creating medical drawings during her education. I didn't want all of her hard work to go to waste, so it inspired me to start this project. I selected the most interesting drawings, scanned them, and created a strange dataset. Then, I applied my computer science skills and tried to use a neural network to transform your drawings.t. For me, it is a very complex process focused on creativity and extensive internal research.  The network SD 1.5 used in this project was fine-tuned. The image interpolation function describes data taken from EEG.
 
 ![frame_1161_SR](https://user-images.githubusercontent.com/39826275/220872948-9ae268f0-fc75-4fb3-ada8-b04884edfe45.png)
 ### Details
